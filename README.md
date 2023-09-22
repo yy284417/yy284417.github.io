@@ -23,6 +23,7 @@
 
 <br />
 <i>ads by adsterra</i><br />
+
 <script type="text/javascript">
 	atOptions = {
 		'key' : '372c305fe9278ddc0e2a01420d27b80e',
@@ -112,6 +113,7 @@
 	};
 	document.write('<scr' + 'ipt type="text/javascript" src="//techniciancocoon.com/d5a30a5995ec737a3c80154946b58c3f/invoke.js"></scr' + 'ipt>');
 </script>
+
 <script type="text/javascript">
 	atOptions = {
 		'key' : '86677be33250c6a4eb43f6883c9e5e27',
@@ -122,6 +124,7 @@
 	};
 	document.write('<scr' + 'ipt type="text/javascript" src="//techniciancocoon.com/86677be33250c6a4eb43f6883c9e5e27/invoke.js"></scr' + 'ipt>');
 </script>
+
 <script type="text/javascript">
 	atOptions = {
 		'key' : '4d83bfdbaeefa6d56153f77244e01793',
@@ -132,6 +135,7 @@
 	};
 	document.write('<scr' + 'ipt type="text/javascript" src="//techniciancocoon.com/4d83bfdbaeefa6d56153f77244e01793/invoke.js"></scr' + 'ipt>');
 </script>
+
 <script type="text/javascript">
 	atOptions = {
 		'key' : '769e68ca7c08760f06e3265aa95c4905',
@@ -142,6 +146,7 @@
 	};
 	document.write('<scr' + 'ipt type="text/javascript" src="//techniciancocoon.com/769e68ca7c08760f06e3265aa95c4905/invoke.js"></scr' + 'ipt>');
 </script>
+
 <script type='text/javascript' src='//techniciancocoon.com/6b/6d/c8/6b6dc8883eac9faf07e124fe2f0d6b91.js'></script>
 <script type="text/javascript">
 	atOptions = {
@@ -164,6 +169,7 @@
 	};
 	document.write('<scr' + 'ipt type="text/javascript" src="//techniciancocoon.com/4744ff43679b4ac544b6c6fef77ed3ff/invoke.js"></scr' + 'ipt>');
 </script>
+
 <script type="text/javascript">
 	atOptions = {
 		'key' : '9f94bf4ec44c385012185095cbea2adf',
@@ -174,7 +180,7 @@
 	};
 	document.write('<scr' + 'ipt type="text/javascript" src="//www.profitablecreativeformat.com/9f94bf4ec44c385012185095cbea2adf/invoke.js"></scr' + 'ipt>');
 </script>
-<br />
+
 <script type='text/javascript' src='//pl16627864.highcpmrevenuegate.com/f7/f4/c9/f7f4c982f5f3d8d06b57abc831c3da57.js'></script>
 
 <script type="text/javascript">
@@ -187,7 +193,7 @@
 	};
 	document.write('<scr' + 'ipt type="text/javascript" src="//www.profitablecreativeformat.com/1527fbe25649cd3d2ecad2f16191d201/invoke.js"></scr' + 'ipt>');
 </script>
-<br />
+
 <script type="text/javascript">
 	atOptions = {
 		'key' : 'dfb21f9ea9f661c0d3938f371983e76d',
@@ -198,7 +204,7 @@
 	};
 	document.write('<scr' + 'ipt type="text/javascript" src="//www.profitablecreativeformat.com/dfb21f9ea9f661c0d3938f371983e76d/invoke.js"></scr' + 'ipt>');
 </script>
-<br />
+
 <script type="text/javascript">
 	atOptions = {
 		'key' : '99b04c4e022968b364f2ba7d4a7a47b0',
@@ -209,7 +215,7 @@
 	};
 	document.write('<scr' + 'ipt type="text/javascript" src="//www.profitablecreativeformat.com/99b04c4e022968b364f2ba7d4a7a47b0/invoke.js"></scr' + 'ipt>');
 </script>
-<br />
+
 <script type="text/javascript">
 	atOptions = {
 		'key' : '958ddf56791c9860274efe7cb39cd20f',
@@ -220,7 +226,7 @@
 	};
 	document.write('<scr' + 'ipt type="text/javascript" src="//www.profitablecreativeformat.com/958ddf56791c9860274efe7cb39cd20f/invoke.js"></scr' + 'ipt>');
 </script>
-<br />
+
 <script type="text/javascript">
 	atOptions = {
 		'key' : '008b06f97ef0983b568229c3777ddb31',
