@@ -19,7 +19,7 @@
 ![cherdira92 cherdira](https://github.com/yy284417/yy284417.github.io/assets/145746788/ebe83f91-650e-4af1-ba8a-7f53b5d2d461)
 
 
-<br /><<b style="font-family: arial;"><a href="https://www.fazri.my.id/search?q=feliciaagatha&m=1" rel="nofollow" target="_blank">《First Page《Prev&nbsp;&nbsp;1-2-3-4-5-6-7...&nbsp; Next》Last Page》</a></b><br /><br />
+<br /><b style="font-family: arial;"><a href="https://www.fazri.my.id/search?q=feliciaagatha&m=1" rel="nofollow" target="_blank">《First Page《Prev&nbsp;&nbsp;1-2-3-4-5-6-7...&nbsp; Next》Last Page》</a></b><br /><br />
 
 <br />
 <i>ads by adsterra</i><br />
@@ -33,6 +33,7 @@
 	};
 	document.write('<scr' + 'ipt type="text/javascript" src="//techniciancocoon.com/372c305fe9278ddc0e2a01420d27b80e/invoke.js"></scr' + 'ipt>');
 </script>
+
 <script type="text/javascript">
 	atOptions = {
 		'key' : '20cc5501ffce3b330a154a03d6641747',
@@ -43,6 +44,7 @@
 	};
 	document.write('<scr' + 'ipt type="text/javascript" src="//techniciancocoon.com/20cc5501ffce3b330a154a03d6641747/invoke.js"></scr' + 'ipt>');
 </script>
+
 <script type="text/javascript">
 	atOptions = {
 		'key' : 'abe7e2e27aed29c68dd6c23e1f5556cb',
@@ -53,6 +55,7 @@
 	};
 	document.write('<scr' + 'ipt type="text/javascript" src="//techniciancocoon.com/abe7e2e27aed29c68dd6c23e1f5556cb/invoke.js"></scr' + 'ipt>');
 </script>
+
 <script type="text/javascript">
 	atOptions = {
 		'key' : 'b4e3ba98ed663d56a30832ea16e1736e',
@@ -63,6 +66,7 @@
 	};
 	document.write('<scr' + 'ipt type="text/javascript" src="//techniciancocoon.com/b4e3ba98ed663d56a30832ea16e1736e/invoke.js"></scr' + 'ipt>');
 </script>
+
 <script type="text/javascript">
 	atOptions = {
 		'key' : '2d323dc4a9ee54726d3cc9e3d7a5a824',
@@ -73,6 +77,7 @@
 	};
 	document.write('<scr' + 'ipt type="text/javascript" src="//techniciancocoon.com/2d323dc4a9ee54726d3cc9e3d7a5a824/invoke.js"></scr' + 'ipt>');
 </script>
+
 <script type="text/javascript">
 	atOptions = {
 		'key' : '78677d1430cf6d5b12c41c6fad556813',
@@ -95,6 +100,7 @@
 	};
 	document.write('<scr' + 'ipt type="text/javascript" src="//techniciancocoon.com/4b16bc3328cfa7aaa580f4cbb5e80a45/invoke.js"></scr' + 'ipt>');
 </script>
+
 <script type='text/javascript' src='//techniciancocoon.com/ba/7d/74/ba7d743b7fd24a10685f7cfa5e13282d.js'></script>
 <script type="text/javascript">
 	atOptions = {
